@@ -36,7 +36,7 @@ cd corona-dashbboard-w2o-wave-main
 Next we need to set the environment for the app to function in.
 ```
 python3 -m venv venv  or py -m venv venv
-source venv/bin/activate or venv/scripts/activate
+source venv/bin/activate or venv\scripts\activate
 pip install -r requirements.txt
 ```
 ## 4. Run it!
