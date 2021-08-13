@@ -3,7 +3,7 @@
 Easy Realtime Corona Analytic Dashboard using h2o_wave 
 View most recent corona updates for any country of the world
 
-Fetching Data from [Novel Covid API](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#7de60ec5-94c0-42a1-b17b-ced037d8c563)
+Fetching Data from [Novel Covid API](https://github.com/disease-sh/API)
 
 ![corona dash2](https://user-images.githubusercontent.com/42380130/129351308-b2806810-c91f-4b19-89b7-095e6f193d55.PNG)
 
