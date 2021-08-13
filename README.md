@@ -1,1 +1,1 @@
-# corona-dashbboard-w2o-wave
+# Corona Dashboard using H2o and NovelCOVID API
