@@ -1,7 +1,7 @@
 # Corona Dashboard using H2o and NovelCOVID API
 
-Easy Realtime Corona Analytic Dashboard using h2o_wave 
-View most recent corona updates for any country of the world
+Easy Realtime Corona Analytic Dashboard using h2o_wave. 
+View the most recent corona stat updates of any country in the world.
 
 Fetching Data from [Novel Covid API](https://github.com/disease-sh/API)
 
