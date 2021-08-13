@@ -18,7 +18,7 @@ Fetching Data from [Novel Covid API](https://github.com/disease-sh/API)
 
 ## 1. Wave Server
 
-to Run the app we need install adn run the wave server. https://wave.h2o.ai/docs/installation
+to Run the app we need install and run the wave server. https://wave.h2o.ai/docs/installation
 Extract the wave sdk and run waved to start the server.
 IMPORTANT : keep this server running throughout the process ! 
 
