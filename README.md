@@ -29,7 +29,7 @@ git clone https://github.com/nerodroid/corona-dashbboard-w2o-wave.git
 ```
 extract the project to a location of your choice and go inside the folder.
 ```
-cd corona-dashbboard-w2o-wave
+cd corona-dashbboard-w2o-wave-main
 ```
 ## 3. Virtual Enviornment
 
